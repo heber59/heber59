@@ -1,5 +1,16 @@
-## Hi there 👋
+## Heber Alvarez 👋
+ -🤠 Software developer trying to get greate every day.
 
+ -🌱 Studying responsive design and Javascritp.
+
+ -🔭 wanting to help in opensource.
+
+ -👾 almost proffesional in squash and league of legends.
+
+ -💬 hesan0308@gmail.com.
+ 
+   ### 📊 Stats 📊
+    [(https://github-readme-stats.vercel.app/api?username=heber59)]
 <!--
 **heber59/heber59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
