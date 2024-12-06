@@ -1,9 +1,7 @@
 ## Heber Alvarez 👋
- - 🤠 Software developer trying to get greate every day.
+ - 🤠 Software developer trying to get better every day.
 
- - 🌱 Studying responsive design and Javascritp.
-
- - 🔭 wanting to help in opensource.
+ - 🌱 React + Typescript.
 
  - 👾 almost proffesional in squash and league of legends.
 
