@@ -7,7 +7,7 @@
 
  - 💬 hesan0308@gmail.com.
 
- - 🤓 FreeCodeCamp & Platzi.
+ - 🤓 FreeCodeCamp.
  
    ### 📊 Stats 📊
    ![heber59's Stats](https://github-readme-stats.vercel.app/api?username=heber59&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
