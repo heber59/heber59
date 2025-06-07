@@ -3,8 +3,6 @@
 
  - 🌱 React + Typescript.
 
- - 👾 almost proffesional in squash and league of legends.
-
  - 💬 hesan0308@gmail.com.
 
  - 🤓 FreeCodeCamp.
