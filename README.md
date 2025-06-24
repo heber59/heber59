@@ -14,6 +14,5 @@
  - 
    ![Static Badge](https://img.shields.io/badge/technologies-fe9e00)
    
-   ![javascript](https://img.shields.io/badge/improving-do?style=plastic&logo=javascript&logoColor=white&labelColor=black)             ![python](https://img.shields.io/badge/started-do?style=plastic&logo=python&logoColor=green&labelColor=black&color=white)
 
 
