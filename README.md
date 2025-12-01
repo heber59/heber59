@@ -55,7 +55,6 @@ These packages are part of a modular architecture that separates **business rule
 
 All libraries are published on NPM and documented using Storybook or internal documentation.
 
-> *(READMEs belong to the organization and cannot be modified, but the code reflects real work in reusable component architecture, validation systems and UI foundations.)*
 
 ---
 
