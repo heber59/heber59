@@ -41,4 +41,4 @@ Modular front-end libraries used across enterprise applications:
 ## 📫 Contact
 
 - Email: **hesan0308@gmail.com**  
-- LinkedIn: [Santiago / Heber Alvarez](https://www.linkedin.com/in/santiago-alvarez-799427230/)
+- LinkedIn: [Heber Alvarez](https://www.linkedin.com/in/santiago-alvarez-799427230/)
