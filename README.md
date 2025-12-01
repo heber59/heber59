@@ -9,7 +9,7 @@ Currently building the UI ecosystem at **Inube** (component libraries, business-
 
 ## 🔧 Tech Stack
 
-React · TypeScript · Vite · Styled Components · Storybook  
+React · TypeScript · Vite · Next.Js · Styled Components · Storybook  
 JavaScript · HTML · CSS · Node.js  
 ESLint · Prettier · Husky · lint-staged · Commitlint  
 
