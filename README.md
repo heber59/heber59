@@ -33,8 +33,8 @@ Modular front-end libraries used across enterprise applications:
 ## 🌱 Currently Working On
 
 - Developing front-end architecture and UI libraries at **Inube**  
-- Building my personal **landing page** (UI, animations, components)  
-- Expanding the `@isettingkit` open-source ecosystem  
+- Building my personal **portfolio** (UI, animations, components)  
+- Expanding the `@isettingkit` ecosystem  
 
 ---
 
