@@ -1,4 +1,4 @@
-# 👨‍💻 [Tu Nombre] — Software Developer
+# 👨‍💻 Heber Alvarez — Software Developer
 
 Frontend-focused developer with 2+ years of experience building scalable, high-quality web applications. Currently transitioning into fullstack, with hands-on experience in backend, data processing, and machine learning systems.
 
