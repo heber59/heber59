@@ -1,124 +1,105 @@
-# 👨‍💻 Heber Alvarez — Software Developer
+<h1 align="center">Hi, I'm Heber Alvarez 👋</h1>
 
-Frontend-focused developer with 2+ years of experience building scalable, high-quality web applications. Currently transitioning into fullstack, with hands-on experience in backend, data processing, and machine learning systems.
+<p align="center">
+  <strong>Senior Frontend Developer · Systems Engineering Student · Cloud & Software Architecture Enthusiast</strong>
+</p>
 
----
-
-## 🚀 About Me
-
-I’m a Systems Engineering student (graduating next year) with strong experience in frontend development using React, and growing expertise in backend architecture, cloud services, and data-driven systems.
-
-I focus on:
-- Clean, maintainable code
-- Performance optimization
-- Pixel-perfect UI/UX
-- Scalable architecture
+<p align="center">
+  I turn complex product and business needs into scalable, maintainable software.
+</p>
 
 ---
 
-## 🧩 Featured Project
+## About Me
 
-### 🗂️ Interactive Portfolio (Microfrontend Architecture)
+I am a **Senior Frontend Developer** with more than two years of software development experience, including the last three months in a senior role. I specialize in building scalable web applications, reusable frontend platforms, and well-structured delivery workflows.
 
-A web-based portfolio inspired by a classic "yellow folder" concept, redesigned as an interactive experience.
+My work goes beyond implementing interfaces. I collaborate directly with clients, uncover their real needs, translate them into technical solutions, and help define the architecture and engineering practices required to deliver them successfully.
 
-- Built using microfrontends
-- Integrates AI-assisted design (Figma AI)
-- Includes a large-scale system:
-  - Role-based configuration
-  - Dynamic service enablement per user
-  - Secure data abstraction
+I am also completing my degree in **Systems Engineering** and expanding my experience across backend development, cloud infrastructure, software architecture, data processing, and applied machine learning.
 
----
+## What I Bring
 
-## 📦 NPM Library
+- Frontend architecture with React and modern state-management patterns
+- Design systems and reusable component libraries
+- Client discovery and translation of business needs into technical solutions
+- Application and cloud architecture
+- CI/CD workflow definition and automation
+- npm package publishing, semantic versioning, and release management
+- Performance optimization and pixel-accurate UI implementation
+- Maintainable code, engineering standards, and scalable technical decisions
 
-I maintain a published package:
+## Selected Work
 
-👉 https://www.npmjs.com/package/@isettingkit/business-rules
+### Geospatial Visualization with Satellite Imagery
 
-![npm downloads](https://img.shields.io/npm/dw/@isettingkit/business-rules)
+Built an interactive map that uses **satellite imagery** and **Voronoi tessellation** to identify and visually highlight the geographic areas required by the product.
+
+- Converted spatial requirements into an interactive visualization
+- Applied Voronoi-based region partitioning
+- Integrated satellite imagery into the user experience
+- Designed the solution with performance and maintainability in mind
+
+### Design System
+
+Created a design system to make product development more consistent and scalable.
+
+- Developed reusable UI foundations and components
+- Improved consistency across interfaces
+- Reduced duplicated implementation work
+- Supported faster delivery and easier long-term maintenance
+
+### Configurable Business Rules Library
+
+I maintain [`@isettingkit/business-rules`](https://www.npmjs.com/package/@isettingkit/business-rules), an npm package for configurable systems.
+
 ![npm version](https://img.shields.io/npm/v/@isettingkit/business-rules)
+![npm downloads](https://img.shields.io/npm/dw/@isettingkit/business-rules)
 
-### What it does
-- Dynamic business rules engine for configurable systems
-- Reusable UI components (design system approach)
-- Handles complex and variable data inputs with consistent outputs
+- Dynamic business-rule evaluation
+- Reusable components and design-system principles
+- Predictable handling of complex, variable inputs
+- Package versioning and release workflow management
 
-### Impact
-- Used across multiple projects
-- Actively maintained and evolving
+### Market Prediction System
 
-## 🧠 Backend & Data Experience
+Developed a backend service that applies **XGBoost** to market data to predict price movements of at least 2% within seven days.
 
-### 📈 Market Prediction System
+- Python-based data processing and model evaluation
+- Approximately 64% accuracy and 45% recall
+- Practical experience taking a data-driven concept into an executable system
 
-Backend service using machine learning to predict stock market movements.
+## Cloud & Architecture
 
-- Model: XGBoost
-- Prediction: ≥2% movement within 7 days
-- Accuracy: ~64%
-- Recall: ~45%
+I have hands-on knowledge of cloud infrastructure and application architecture, backed by the **AWS Certified Cloud Practitioner** certification.
 
-### Stack:
-- Python
-- Data processing
-- Model evaluation
+My experience includes:
 
----
-
-## ☁️ Cloud & Backend
-
-- Google Cloud
+- AWS and Google Cloud fundamentals
+- Docker and containerized workflows
+- API and database design
 - Prisma
-- Docker
-- API design
+- CI/CD pipelines
+- Architecture and workflow definition
+- Secure, scalable system design
 
----
+## Core Technologies
 
-## 🧼 Current Project
+**Frontend:** React, JavaScript, TypeScript, Styled Components  
+**State Management:** Redux, Zustand, Context API  
+**Backend & Data:** Python, Prisma, API design, XGBoost  
+**Cloud & Delivery:** AWS, Google Cloud, Docker, CI/CD, npm  
+**Engineering:** Git workflows, semantic versioning, ESLint, Husky, Agile, Kanban
 
-### Cleaning Services Platform (Uber-like)
+## Currently Exploring
 
-Platform for requesting and offering cleaning services.
-
-- Backend in progress
-- Database deployed (Google Cloud)
-- Initial services implemented
-
----
-
-## ⚛️ Frontend Stack
-
-- React
-- Styled Components
-- Redux / Zustand / Context API
-
-### Practices:
-- Pixel-perfect UI
-- Performance optimization
-- ESLint + Husky
-
----
-
-## 🔧 Workflow
-
-- Git (advanced workflows)
-- Kanban
-- Agile
-
----
-
-## 🤖 Interests
-
+- Full-stack and cloud-native architecture
+- Developer tooling and automation
 - Agentic AI
-- Developer tools in terminal
-- Automation
+- Scalable platform engineering
 
----
+## Let's Connect
 
-
-## 📫 Contact
-
-- Email: **hesan0308@gmail.com**  
-- LinkedIn: [Heber Alvarez](https://www.linkedin.com/in/santiago-alvarez-799427230/)
+- [LinkedIn](https://www.linkedin.com/in/santiago-alvarez-799427230/)
+- [npm](https://www.npmjs.com/package/@isettingkit/business-rules)
+- Email: **hesan0308@gmail.com**
