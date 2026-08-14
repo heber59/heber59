@@ -101,5 +101,5 @@ My experience includes:
 ## Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/heber-santiago-alvarez-rincon-799427230/)
-- [npm](https://www.npmjs.com/package/@isettingkit/business-rules)
+- [npm](https://www.npmjs.com/~hesan0308)
 - Email: **hesan0308@gmail.com**
