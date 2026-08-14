@@ -100,6 +100,6 @@ My experience includes:
 
 ## Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/santiago-alvarez-799427230/)
+- [LinkedIn](https://www.linkedin.com/in/heber-santiago-alvarez-rincon-799427230/)
 - [npm](https://www.npmjs.com/package/@isettingkit/business-rules)
 - Email: **hesan0308@gmail.com**
