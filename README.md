@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Heber Alvarez 👋</h1>
 
 <p align="center">
-  <strong>Senior Frontend Developer · Systems Engineering Student · Cloud & Software Architecture Enthusiast</strong>
+  <strong>Senior Frontend Developer · Software & Cloud Architecture</strong>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@ I am a **Senior Frontend Developer** with more than two years of software develo
 
 My work goes beyond implementing interfaces. I collaborate directly with clients, uncover their real needs, translate them into technical solutions, and help define the architecture and engineering practices required to deliver them successfully.
 
-I am also completing my degree in **Systems Engineering** and expanding my experience across backend development, cloud infrastructure, software architecture, data processing, and applied machine learning.
+My experience also spans backend development, cloud infrastructure, software architecture, data processing, and applied machine learning.
 
 ## What I Bring
 
